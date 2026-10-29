@@ -85,5 +85,9 @@ The text-to-speech system converts the response into an audio signal. The speake
 
 Where supported, machine learning helps improve speech recognition and personalize services using permitted data and user preferences. This can make future interactions more useful and accurate.
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4185f55-ddfe-4d2c-bae4-a42db62336c8" />
+
+
 # RESULT
 The application of Artificial Intelligence in smart speakers was studied successfully. The working of speech recognition, Natural Language Processing, machine learning, voice assistant technology, cloud computing, and Text-to-Speech was understood. Smart speakers provide intelligent, convenient, and hands-free services through voice commands and are widely used in smart homes and everyday activities.
